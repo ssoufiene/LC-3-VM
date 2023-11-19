@@ -1,5 +1,6 @@
 # LC-3-VM
-[LC-3 virtual machine coded in c]()
+[LC-3 virtual machine coded in c](vm.c)
+
 The basic function of the vm : load the program into the main memory, we keep the current instruction in the RPC registser, obtain the operational code and execute the method, finally increment Rpc and continue the program.
 
 
